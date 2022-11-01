@@ -42,7 +42,7 @@
                         </center>
                     </ul>
                     <div class="card-body text-center">
-                       <a class="nav-link text-secondary"><a href="RIKA _BOOKING.php" class="btn btn-primary " >Book Now</a>
+                        <a class="nav-link text-secondary"><a href="RIKA_BOOKING.php" class="btn btn-primary " >Book Now</a>
                     </div>
                 </div>
             </div>
