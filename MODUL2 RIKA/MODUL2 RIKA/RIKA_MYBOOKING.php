@@ -21,11 +21,11 @@
         </div>
     </nav>
   <?php
-  $name = $_POST['name'];
+  $name = $_POST['names'];
   $bookDate = $_POST['bookDate'];
-  $number = $_POST['number'];
+  $number = $_POST['Number'];
   $startTime = $_POST['startTime'];
-  $mobil = $_POST['mobil'];
+  $mobil = $_P0ST['mobil'];
   $addServices = $_POST['addServices'];
   $duration = $_POST['duration'];
   $tgl1    = $bookDate; 
